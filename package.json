@@ -1,0 +1,25 @@
+{
+  "name": "opmljsonflattener",
+  "version": "1.0.0",
+  "description": "extract all the feeds from an opml file and convert to flat json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newman8r/OpmlJsonFlattener.git"
+  },
+  "keywords": [
+    "opml"
+  ],
+  "author": "Newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newman8r/OpmlJsonFlattener/issues"
+  },
+  "homepage": "https://github.com/newman8r/OpmlJsonFlattener#readme",
+  "dependencies": {
+    "xml-parser": "^1.2.1"
+  }
+}
